@@ -14,7 +14,7 @@ const HeaderContainer = styled.header`
 
 export const Header: FC = () => (
   <HeaderContainer>
-    <h1>Wheel of Names</h1>
+    <h1>Wheel of Fortune</h1>
   </HeaderContainer>
 );
 
